@@ -241,7 +241,7 @@
           }
         }
       }
-    },
+    }, 
     "securitySchemes": {
       "oauth2": {
         "type": "oauth2",
@@ -250,7 +250,7 @@
             "tokenUrl": "https://iam.cloud.ibm.com/identity/token",
             "grantType": "urn:ibm:params:oauth:grant-type:apikey",
             "secretKeys": [
-              "apikey"
+              "nMcSAZSp-8CUVcmTJdlEiwl8a4sgj6wkn2r_h--qD-Vc"
             ],
             "paramKeys": [],
             "scopes": {}
